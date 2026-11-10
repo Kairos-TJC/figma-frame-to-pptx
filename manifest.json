@@ -1,0 +1,16 @@
+{
+  "name": "Frame 转图片 PPT",
+  "id": "1690335846289174348",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "main": "code.js",
+  "ui": "ui.html",
+  "menu": [
+    { "name": "1× JPG 转 PPT", "command": "1x" },
+    { "name": "2× JPG 转 PPT", "command": "2x" },
+    { "name": "3× JPG 转 PPT", "command": "3x" },
+    { "name": "4× JPG 转 PPT", "command": "4x" }
+  ],
+  "networkAccess": { "allowedDomains": ["none"] }
+}
